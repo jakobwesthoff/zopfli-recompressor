@@ -2,7 +2,7 @@
 set -e
 
 # Compressor options
-ITERATIONS=100
+ITERATIONS=1
 
 usage() {
     (
